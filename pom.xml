@@ -40,7 +40,8 @@
 	<artifactId>mysql-connector-j</artifactId>
 	<version>8.3.0</version>
 </dependency>
-	<groupId>org.spring
+	<groupId>org.springframework.boot</groupId>
+	<artifactId>spring
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
