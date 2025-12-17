@@ -1,4 +1,4 @@
-package com.example.demo.service.impl;
+package com.example.demo.services.imp;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -8,7 +8,7 @@ import com.example.demo.services.StudentService;
 
 import org.springframework.stereotype.Service;
 @Service
-public class StudentServiceImpl implements StudentService{
+public class StudentServiceImplementation implements StudentService{
     @Autowired
     StudentRepo repo;
 
